@@ -19,7 +19,8 @@
   ## Installation
   Clone this repo into your machine, install inquirer via npm i inquirer command, run program via node index.js command, and  answer questions. 
   
-  <iframe src="https://drive.google.com/file/d/1MzyTprGJU3_m6LsCi0XaR-FcLRQwxnpB/preview" width="640" height="480"></iframe>
+  App Demo
+  https://drive.google.com/file/d/1MzyTprGJU3_m6LsCi0XaR-FcLRQwxnpB/view
   
   ## Usage
   This app is used by developers to easily create a README.md file on the fly!
